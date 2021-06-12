@@ -1,0 +1,21 @@
+Vivado Simulator 2020.2
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2020.2/bin/unwrapped/win64.o/xelab.exe -wto fde23fac9b4247e78ade885d1df18160 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot main_tb_behav xil_defaultlib.main_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Users/1/S-tech/Lab2_Sard/Lab2_Sard.srcs/sources_1/new/main.v" Line 1. Module main doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/1/S-tech/Lab2_Sard/Lab2_Sard.srcs/sources_1/new/cube.v" Line 1. Module cube doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/1/S-tech/Lab2_Sard/Lab2_Sard.srcs/sources_1/new/main.v" Line 1. Module main doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/1/S-tech/Lab2_Sard/Lab2_Sard.srcs/sources_1/new/cube.v" Line 1. Module cube doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.mult
+Compiling module xil_defaultlib.cube
+Compiling module xil_defaultlib.sqrt
+Compiling module xil_defaultlib.main
+Compiling module xil_defaultlib.main_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot main_tb_behav

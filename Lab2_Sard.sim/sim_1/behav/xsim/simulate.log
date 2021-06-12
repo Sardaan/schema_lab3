@@ -1,0 +1,21 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+a=0, b=10, result=1, ok=1
+a=12, b=20, result=3, ok=1
+a=24, b=30, result=5, ok=1
+a=37, b=40, result=6, ok=1
+a=50, b=50, result=7, ok=1
+a=63, b=60, result=8, ok=1
+a=76, b=70, result=8, ok=1
+a=90, b=80, result=9, ok=1
+a=104, b=90, result=10, ok=1
+a=118, b=100, result=11, ok=1
+a=132, b=110, result=11, ok=1
+a=146, b=120, result=12, ok=1
+a=160, b=130, result=12, ok=1
+a=175, b=140, result=13, ok=1
+a=190, b=150, result=13, ok=1
+a=205, b=160, result=14, ok=1
+a=220, b=170, result=15, ok=1
+a=235, b=180, result=15, ok=1
+end of tests

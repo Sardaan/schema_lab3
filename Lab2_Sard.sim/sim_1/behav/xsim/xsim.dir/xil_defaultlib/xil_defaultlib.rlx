@@ -1,0 +1,10 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/1/S-tech/Lab2_Sard/Lab2_Sard.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/1/S-tech/Lab2_Sard/Lab2_Sard.srcs/sim_1/new/main_tb.v,1623443967,verilog,,,,main_tb,,,,,,,,
+C:/Users/1/S-tech/Lab2_Sard/Lab2_Sard.srcs/sources_1/new/cube.v,1623443493,verilog,,C:/Users/1/S-tech/Lab2_Sard/Lab2_Sard.srcs/sources_1/new/main.v,,cube,,,,,,,,
+C:/Users/1/S-tech/Lab2_Sard/Lab2_Sard.srcs/sources_1/new/main.v,1623483410,verilog,,C:/Users/1/S-tech/Lab2_Sard/Lab2_Sard.srcs/sources_1/new/mult.v,,main,,,,,,,,
+C:/Users/1/S-tech/Lab2_Sard/Lab2_Sard.srcs/sources_1/new/mult.v,1623443470,verilog,,C:/Users/1/S-tech/Lab2_Sard/Lab2_Sard.srcs/sources_1/new/sqrt.v,,mult,,,,,,,,
+C:/Users/1/S-tech/Lab2_Sard/Lab2_Sard.srcs/sources_1/new/sqrt.v,1623443503,verilog,,C:/Users/1/S-tech/Lab2_Sard/Lab2_Sard.srcs/sim_1/new/main_tb.v,,sqrt,,,,,,,,
